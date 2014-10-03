@@ -1,0 +1,165 @@
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\SDP.dll.config
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\SDP.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\SDP.pdb
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Antlr3.Runtime.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\EntityFramework.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\EntityFramework.SqlServer.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.Google.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Web.Infrastructure.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Newtonsoft.Json.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Owin.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.Helpers.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.Mvc.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.Optimization.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.Razor.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.WebPages.Deployment.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.WebPages.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.WebPages.Razor.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\WebGrease.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.Helpers.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.Mvc.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.Optimization.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.Razor.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.WebPages.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.WebPages.Deployment.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\System.Web.WebPages.Razor.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Antlr3.Runtime.pdb
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Newtonsoft.Json.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\EntityFramework.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\EntityFramework.SqlServer.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.Google.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.dll
+c:\users\chris\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\Chris\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\SDP\SDP\bin\SDP.dll.config
+C:\Users\Chris\Dropbox\SDP\SDP\bin\SDP.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\SDP.pdb
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Antlr3.Runtime.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\EntityFramework.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\EntityFramework.SqlServer.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Newtonsoft.Json.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Owin.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.Helpers.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.Mvc.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.Optimization.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.Razor.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.WebPages.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\WebGrease.dll
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.Helpers.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.Mvc.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.Optimization.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.Razor.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.WebPages.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Antlr3.Runtime.pdb
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Newtonsoft.Json.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\EntityFramework.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\EntityFramework.SqlServer.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chris\Dropbox\SDP\SDP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chris\Dropbox\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\SDP\SDP\obj\Debug\SDP.dll
+C:\Users\Chris\Dropbox\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\SDP.dll.config
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\SDP.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\SDP.pdb
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Antlr3.Runtime.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\EntityFramework.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\EntityFramework.SqlServer.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Newtonsoft.Json.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Owin.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.Helpers.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.Mvc.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.Optimization.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.Razor.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.WebPages.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.WebPages.Razor.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\WebGrease.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.Helpers.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.Mvc.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.Optimization.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.Razor.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.WebPages.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\System.Web.WebPages.Razor.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Antlr3.Runtime.pdb
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Newtonsoft.Json.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\EntityFramework.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\EntityFramework.SqlServer.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\QUOC VIET\Desktop\sdp\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\QUOC VIET\Desktop\sdp\SDP\obj\Debug\SDP.dll
+C:\Users\QUOC VIET\Desktop\sdp\SDP\obj\Debug\SDP.pdb

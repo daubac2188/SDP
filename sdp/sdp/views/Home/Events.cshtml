@@ -1,0 +1,47 @@
+﻿@using SDP.Models;
+@{
+    ViewBag.Title = "Events";
+    var data = (List<Event>)Model;
+}
+<h2>@ViewBag.Title.</h2>
+
+<table class="table table-hover">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Body
+        </th>
+        <th>
+            Date
+        </th>
+        <th>
+            Image
+        </th>
+        <th>
+            Venue
+        </th>
+        <th></th>
+    </tr>
+    @foreach (Event item in data)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Body
+            </td>
+            <td>
+                @item.Date
+            </td>
+            <td>
+                @item.Image
+            </td>
+            <td>
+                @item.Venue
+            </td>
+        </tr>
+    }
+</table>
